@@ -2,30 +2,30 @@
 
 # VIRO
 
-1. Mikä on Viron pinta-ala?
+1. a) Mikä on Viron pinta-ala?
 
-2. Kuinka monta asukasta Virossa on?
+b) Kuinka monta asukasta Virossa on?
 
-3. Mikä on Viron pääkaupunki?
+c) Mikä on Viron pääkaupunki?
 
-4. Mikä on Viron valuuttaa?
+d) Mikä on Viron valuuttaa?
 
 # Latvia
 
-Mikä on Latvian pinta-ala?
+2. a) Mikä on Latvian pinta-ala?
 
-Kuinka monta asukasta Latviassa on?
+b) Kuinka monta asukasta Latviassa on?
 
-Mikä on Latvian pääkaupunki?
+c) Mikä on Latvian pääkaupunki?
 
-Mikä on Latvian valuutta?
+d) Mikä on Latvian valuutta?
 
 # Liettua
 
-Mikä on Liettuan pinta-ala?
+3. a) Mikä on Liettuan pinta-ala?
 
-Kuinka monta asukasta Liettuassa on?
+b) Kuinka monta asukasta Liettuassa on?
 
-Mikä on Liettuan pääkaupunki?
+c) Mikä on Liettuan pääkaupunki?
 
-Mikä on Liettuan valuutta?
+d) Mikä on Liettuan valuutta?
